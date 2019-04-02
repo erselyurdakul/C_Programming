@@ -2,12 +2,12 @@
 
 int main()
 {
-	int sayi;
+	int number;
 	printf("bir sayi girin \n");
-	scanf_s("%d", &sayi);
-	if (sayi == 5)
+	scanf_s("%d", &number);
+	if (number == 5)
 	{
-		printf("%d\n""sifre dogru", sayi);
+		printf("%d\n""sifre dogru", number);
 	}
 	else
 	{
