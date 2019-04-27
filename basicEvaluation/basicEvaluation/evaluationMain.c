@@ -61,11 +61,15 @@ int main()
 		}
 	}
 
-	if ((gender == 'M' || gender =='m') && (18<=age<=35 && 165<=height<=200))
+	if ((gender == 'M' || gender =='m') && 
+		(18<=age && age<=35) && 
+		(165<=height && height<=200))
 	{
 		printf("Congratulations, passed the physical tests.\n");
 	}
-	else if ((gender == 'F' || gender == 'f') && (18<=age<=32 && 155<=height<=200))
+	else if ((gender == 'F' || gender == 'f') &&
+		(18<=age && age<=32) &&
+		(155<=height && height<=200))
 	{
 		printf("Congratulations, passed the physical tests.\n");
 	}
