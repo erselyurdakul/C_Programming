@@ -56,3 +56,17 @@ dkms.conf
 /Password_Confirmation/Debug/Password_Confirmation.log
 /.vs/C_Programming/v15
 /Common_Project/.vs/C_Programming/v15
+/.vs
+/basicEvaluation/.vs/basicEvaluation/v15
+/basicEvaluation/basicEvaluation/Debug/basicEvaluation.tlog
+/basicEvaluation/basicEvaluation/Debug
+/someCalculations/.vs/someCalculations/v15
+/someCalculations/someCalculations/Debug/someCalculations.tlog
+/someCalculations/someCalculations/Debug/someCalculations.log
+/square-rectangle-area-calculation/.vs/square-rectangle-area-calculation/v15
+/square-rectangle-area-calculation/square-rectangle-area-calculation/Debug/square-r.C13FA78B.tlog
+/square-rectangle-area-calculation/square-rectangle-area-calculation/Debug/square-rectangle-area-calculation.log
+/squareRoots/squareRoots/Debug/squareRoots.tlog
+/squareRoots/squareRoots/Debug
+/squareRoots/.vs/squareRoots/v15/ipch/AutoPCH/c7dc2a764d4ea4f9
+/squareRoots/.vs/squareRoots/v15
