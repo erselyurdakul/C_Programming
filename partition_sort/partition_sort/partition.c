@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
+#include <conio.h>
 
 void *partition(void *vpa, size_t size, size_t width, int(*fptest)(const void *))
 {
